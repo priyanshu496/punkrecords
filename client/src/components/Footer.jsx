@@ -68,9 +68,6 @@ export default function Footer() {
                               onClick={() => navigate("/home")}
                             />
               </div>
-              <h3 className="text-2xl font-bold bg-gradient-to-r from-fuchsia-400 to-purple-400 bg-clip-text text-transparent">
-                Punkrecords
-              </h3>
             </div>
             <p className="text-gray-300 leading-relaxed">
               Your ultimate destination for movies and entertainment. Discover, watch, and enjoy thousands of movies and TV shows from around the world.
