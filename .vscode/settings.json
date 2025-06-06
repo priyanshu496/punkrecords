@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Aura Dark",
+    "workbench.preferredDarkColorTheme": "Aura Dark",
+    "window.autoDetectColorScheme": false,
+    "workbench.preferredHighContrastColorTheme": "Aura Dark",
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "editor.fontFamily": "Inconsolata"
+}
