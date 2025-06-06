@@ -54,14 +54,6 @@ const Login = () => {
       <div className="bg-cover bg-center bg-[url('/src/assets/movie_bg.jpg')] absolute inset-0 z-0 blur-[1.5px] brightness-35"></div>
 
       <div className="flex flex-col relative justify-center items-center z-10 w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg">
-        {/* Logo */}
-        <img 
-            src="/src/assets/logoPunk.png" 
-            alt="Logo" 
-            className="h-16 sm:h-20 md:h-24 lg:h-37 w-auto cursor-pointer" 
-            draggable={false}
-          />
-        
         {/* Login Form Container */}
         <div className="bg-black/30 backdrop-blur-md border border-white/20 rounded-xl p-4 sm:p-6 md:p-8 shadow-lg w-full text-white">
           {/* Title */}
