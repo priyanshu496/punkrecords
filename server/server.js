@@ -15,7 +15,7 @@ App.use(cookieParser());
 
 App.use(
   cors({
-    origin: "http://localhost:5173", // don't use '*'
+    origin: "https://punkrecords-client.onrender.com", // don't use '*'
     credentials: true, // allow cookies, sessions, etc.
   })
 );
