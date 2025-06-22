@@ -1,1 +1,1 @@
-export const BACKEND_URL = 'https://punkrecords-server.onrender.com';
+export const BACKEND_URL = 'https://punkrecords-phi.vercel.app';
